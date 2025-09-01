@@ -2,287 +2,311 @@
 arch = "x86_64"
 cuda = "11.4"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "db7006036355c08ab5fb674b74f3dcbdd530e6b6"
+git-tree-sha1 = "d633f149a124454043b79f32548f6ebb12a03f98"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "cfa908c9d8a66274865d96669b20715a759fcdc07e3ade75a38b9de328fd68ef"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx03-cuda+11.4.tar.gz"
+    sha256 = "d76c44fefabf81bf98ea163423c35eaa82bc1c970295de6600257345250655bd"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx03-cuda+11.4.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "11.4"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2859965e1c723824bcc449e32360f3a45cb0529f"
+git-tree-sha1 = "ef6bc881f20ca820fffa5e035db0a6c75b46f5c5"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "62e44d20492da83bbb20afffe81d32647cb2a912393dce22b0e4cd6e52396e13"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx11-cuda+11.4.tar.gz"
+    sha256 = "8b700110ab53a2f7cbafce6f9bdba9911f8aed3d13c1c3b857152d06fda399ab"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx11-cuda+11.4.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "11.5"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "96ce7c5a7f1c203d5d27d8d9764c4bb2b7041d60"
+git-tree-sha1 = "a9be881e73615ae6917d7bab520e59084a4ccc5c"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "4e288bd3a97f421a21ff1547173be1f652f6269b55b1bd9fe3f9f5b6582b8f7b"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx03-cuda+11.5.tar.gz"
+    sha256 = "ba923af48f462cbbac00a1e2259255fd53b797fd01a3899e20b714018ea74804"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx03-cuda+11.5.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "11.5"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0227b9c5643690eacb7645c64e21613a002f7b52"
+git-tree-sha1 = "ec25589828b4cfa55d7ee1d3eba781136e4d1736"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "5254ac98db7356a5f207fa17e5b128a4c25f93ac2b699285d7af05b12dbc5faa"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx11-cuda+11.5.tar.gz"
+    sha256 = "747627d69265a387c302647a377a6757b8beb0a679dae37c0767b42355ac936e"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx11-cuda+11.5.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "11.6"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0026884d439b8990b3be8a3f2ff079235fdb4ef6"
+git-tree-sha1 = "d39a1be3ada13a5506b31dbd29d9da4c34153113"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "f84519b2b9d97fb305dbc28ace83f3f2e4e57529bca7d937cf81857cdee3d1c6"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx03-cuda+11.6.tar.gz"
+    sha256 = "b0f44edd810b234e86266cf28c8e8805161fcd6ce38326a8636c935f6e5bed27"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx03-cuda+11.6.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "11.6"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e201054b4f481ac64f8ceebe0d7e182490b96378"
+git-tree-sha1 = "9ab70c2e144d24d4bd3d879b85a396732957256a"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "07aaadf6560c27b0f6495e0b91df2a0a812490efe9d268d7c833613c32c3a0bd"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx11-cuda+11.6.tar.gz"
+    sha256 = "cdf89ff0de5688764ea348346bc538710e955a54ec334326cca5135bcf907d96"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx11-cuda+11.6.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "11.7"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2a96d80c469aa67516f9a24864e0027c40a834ed"
+git-tree-sha1 = "81ccc5937eb7a688ce8d55ca055265ddb813faa6"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "d92595d7f94abff68d6d65cbd0a63b1c931995c4f8cec713dae254674c495595"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx03-cuda+11.7.tar.gz"
+    sha256 = "e7c37864c46cac7d534afea3048a7f6c2ac66d43347c85deefcb88c298bddd81"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx03-cuda+11.7.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "11.7"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3d8618b07d5d32aa794d9ee537dbcf7c7838e500"
+git-tree-sha1 = "ac53f769e6048e351b4f266b3f54d7773873e050"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "cc9d77391627b30128a29896ae8eab45bf551a228d3ddacb67de4f09e6ada9e9"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx11-cuda+11.7.tar.gz"
+    sha256 = "2247b774f9d2dfd26d08eb271428010422b3b1e2cae7f4d19d9906e0f4c358f0"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx11-cuda+11.7.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "11.8"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bb01a8f9684d0032bec427b6d95c35659afcdb4b"
+git-tree-sha1 = "913c9943a53d7120e2fe0a60fe34c17c8ffb02c7"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "587353e8ca23b9c827099d147330a822a4a32d5b2c501a1252cdefc229722d5b"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx03-cuda+11.8.tar.gz"
+    sha256 = "36b67ea6e277736b8dbffc700461c2b7d8d0a3ec571f4aa6845748f7bddae85a"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx03-cuda+11.8.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "11.8"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "644b0869b3d8beacac59a7eb5e7faebf23d29de7"
+git-tree-sha1 = "85ea154b71f647eb0d99ff08826fd2dd47e05935"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "cfbdad3bd7f425a47e160d7d56aa8934142ce8c04a0d092dc1b233b673eb57f5"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx11-cuda+11.8.tar.gz"
+    sha256 = "fd9e3121cbabe65cc0ff7da185cf20ca111f2742383fa41f7dbdb517c6f4e02f"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx11-cuda+11.8.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.0"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "198bc6964ac856297ff815bf4873e1a6082fb9d2"
+git-tree-sha1 = "ba707ca2fa3c68593b02b009630133fb92eab21a"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "f73e95a87e4c6ab5842f5534a9a29662a78b8655b0423be252c15f7c9cb5939d"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx03-cuda+12.0.tar.gz"
+    sha256 = "82a83a2f2b048f8b5487f666bf28471f10121152933fad9611e44e860c96eb22"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx03-cuda+12.0.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.0"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d3429db1f609a1dd33c6356d238363c3248017ce"
+git-tree-sha1 = "13c7ec58fa5fa752c54f61d9102f4d22ecae5333"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "a0bd0a7dfa8204acaad71a5dd6ce60bb298a085de77a488c4329db7bc2599a82"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx11-cuda+12.0.tar.gz"
+    sha256 = "0ebe52c441d37173a670913c85364614af24276c8dc7f5ac8c15f26dff43eff2"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.0.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.1"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d9ebc40e9f8148e5ce87ca25493e8948e32a7870"
+git-tree-sha1 = "d97ada766d7a3582bc5ad8184da8e7adaf47a7e8"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "879fe62f234bb1fc9c547b7c3a8d58cf15d1fd5863993102c30b6a948459d7f8"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx03-cuda+12.1.tar.gz"
+    sha256 = "73bc947258e48eaf9c0cd3c5b22883a081213f06efdcd145526b3da78e54a1a5"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx03-cuda+12.1.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.1"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1086b62aaa9661532d913e984d4d8b48a106f8c8"
+git-tree-sha1 = "4f14e5a393033c3e2a1ffbfb8b07b2682bd9a0f7"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "0e5b05a58dfdc8aa48085f9f348698bd08653bacbe50c00ed39f2c314a5ba2a5"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx11-cuda+12.1.tar.gz"
+    sha256 = "d787146afe1f0caeb1215df0ed09f916fd53f98a7f6151dcc83b44805fb9821e"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.1.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.2"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "31942e4b1b73b22dada61dabc82ff1d7998dd608"
+git-tree-sha1 = "b64694050a1ea2117b7540d968dfb44963c8c55e"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "328a5374f263e44b0b95a786f2dc7bd732145b13bb52cab57b443178058ec6b1"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx03-cuda+12.2.tar.gz"
+    sha256 = "1c7f56ef0f9f2353a570247574c7b5c382adf9b4eb183ed120ed5755e76cd381"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx03-cuda+12.2.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.2"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "be343083395c1c4dd2bfd3c076dd8df44849217e"
+git-tree-sha1 = "b76f290a07a9d78bccd4039bf58a3eaa9efec758"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "47aa2d5fcc3dd54dc221868725e3b79b382443d1a05267ff9e5356a6ac0ec23a"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx11-cuda+12.2.tar.gz"
+    sha256 = "6f6e63758bdbe4b445c89483a8357063c94352ea294b60fb2128a92e70e74e31"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.2.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.3"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "990758704e127c12ca77460f647bdaa1b777f58e"
+git-tree-sha1 = "d2edecaea271997aba92b7b44f6a53e8503d5439"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "3d308fa193d9eac1ef95f9d97c78810f9b9be9ac20bc525c59cafc858244be44"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx03-cuda+12.3.tar.gz"
+    sha256 = "8225bd12b8652a30847f10c5d289d0e6ab094b748f045918d622ecd0eb87f467"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx03-cuda+12.3.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.3"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e72ba22c444d75af458f268a6c7c3793fcb3af15"
+git-tree-sha1 = "1ce3cea2a39c4763a933e0d03cbcd34bea7a1f4c"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "81077d5d8e89d8feaf20d7afb31205edeb540c98ba1e921f7f3d5a84484c8e7a"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx11-cuda+12.3.tar.gz"
+    sha256 = "7f8e0ce283393c4c0bd348927995087c87e621429fa4a150a17ad42fe698b99b"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.3.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.4"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1cd36a38d5fb6502d284682f8adabb89f1d5b96d"
+git-tree-sha1 = "48a2ea936972f2d8d94cafa3725bdc40c69f794c"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "922c3fd649bc23956a8a0ddc411d8797a819cdb6ef7a4198b1bea09a254a0163"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx03-cuda+12.4.tar.gz"
+    sha256 = "f389198608e8bfd5efcdd572e6b53650367cc6d4e4f89747177a384017eee777"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx03-cuda+12.4.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.4"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bbae2785fafa11ac97825ff30f95ba1858fa64dc"
+git-tree-sha1 = "63eac9b7e4ab9e6237468a6040125ee36415adb2"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "968e18e3dc2e3ea5e332941b85a78cb55ed651c1d883504b460f129232f5691e"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx11-cuda+12.4.tar.gz"
+    sha256 = "01cf99d1b6775bbd3d583e9436b13a961f20ae554e46f9c51b06fe69ed020038"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.4.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.6"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5f0bfbfb77ff28dab4c94918944379902a3c5ac0"
+git-tree-sha1 = "d342ba6a2a887dc73419dfec1588d06ad4a1b27d"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "256d9b75070987e24a4dfba73b600dce337fb2d66c4ec7033ff34e297be13189"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx03-cuda+12.6.tar.gz"
+    sha256 = "c6cb2b103bd26e98b5216b065b63c2344477e0f3840e35fdb683d1d25bab3cbb"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx03-cuda+12.6.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.6"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f848aea842766736d342628771d78be70f9e8bc7"
+git-tree-sha1 = "a4128e10181b2047de0109d8c4d5b2b1ff3b3e78"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "eaf84742bff13d612a67964b607d5eb49a2104aeb8e3abda5ab66ee0897434c3"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx11-cuda+12.6.tar.gz"
+    sha256 = "f794f1e670dd789b11422b9fd05a1bb78307e0bec36f962a62547b8685204df3"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.6.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.8"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "325a8d4b9f3a265eb40a01cb1b9de395e8cc3ba9"
+git-tree-sha1 = "2a31b0068c0591924dfd82a56a5534d21ed68b4f"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "32f8d7559e23ed8d881596c2ba9b371db85d6aae510c348fd2da72657d639d92"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx03-cuda+12.8.tar.gz"
+    sha256 = "9281a8e2ca46c9e08c01225099ff61e6b1d8986cf4afc1265ac0e1b3545d1763"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx03-cuda+12.8.tar.gz"
 [[cufinufft]]
 arch = "x86_64"
 cuda = "12.8"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e0fb844fcb97351d0e1abc909579783c321c1a8d"
+git-tree-sha1 = "a396bdc9f3096defdcf4220104163e1fd10213aa"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cufinufft.download]]
-    sha256 = "1eca49c0097c34fb5542b92388d6878c8cbb18015b4626604e02f139d0e46981"
-    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.0+1/cufinufft.v2.4.0.x86_64-linux-gnu-cxx11-cuda+12.8.tar.gz"
+    sha256 = "2c55a84f6a1d32b77f9434c11ce445eedb8681892ec8fe616d25f034190bd7fa"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.8.tar.gz"
+[[cufinufft]]
+arch = "x86_64"
+cuda = "12.9"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "85b7020f749d4d2624bcc486ade5e18ec5a64ad5"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[cufinufft.download]]
+    sha256 = "7f755d4e19cc24c9b5b2615505b94eb00c15f0d86ac7804fa7104206c272aea0"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx03-cuda+12.9.tar.gz"
+[[cufinufft]]
+arch = "x86_64"
+cuda = "12.9"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f5fbc1c90f1ffbea039e546664bbeafa80a66595"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[cufinufft.download]]
+    sha256 = "aa074ea937460c4e259d9c7946da72774c39f09e3b05717c0219e9a34ede1be1"
+    url = "https://github.com/JuliaBinaryWrappers/cufinufft_jll.jl/releases/download/cufinufft-v2.4.1+0/cufinufft.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.9.tar.gz"

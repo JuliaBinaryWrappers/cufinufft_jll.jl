@@ -1,6 +1,6 @@
 name = "cufinufft_jll"
 uuid = "d94e68af-94a2-5465-a03a-ccb69bb7181e"
-version = "2.4.0+1"
+version = "2.4.1+0"
 
 [deps]
 NVTX_jll = "e98f9f5b-d649-5603-91fd-7774390e6439"
