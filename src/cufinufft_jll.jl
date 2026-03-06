@@ -7,5 +7,5 @@ Base.include(@__MODULE__, joinpath("..", ".pkg", "platform_augmentation.jl"))
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("cufinufft")
-JLLWrappers.@generate_main_file("cufinufft", UUID("d94e68af-94a2-5465-a03a-ccb69bb7181e"))
+JLLWrappers.@generate_main_file("cufinufft", Base.UUID("d94e68af-94a2-5465-a03a-ccb69bb7181e"))
 end  # module cufinufft_jll
